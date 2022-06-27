@@ -1,0 +1,480 @@
+*{
+background:;
+}
+/*._1boqbzp {
+    position: relative;
+    background-color: #F7F7F7;
+    border-top: 1px solid #DDDDDD;
+}*/
+
+/*._1s94zl78 {
+        margin: 0 auto;
+        padding-left: 80px;
+        padding-right: 80px;
+}*/
+
+/*._fyxf74 {
+    display: flex;
+    flex-direction: row;
+    padding-top: 48px;
+    padding-bottom: 48px;
+    margin-left: -12px;
+    margin-right: -12px;
+}
+*/
+/*._x6q4xl {
+    color: #222222;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 800;
+}/
+*/
+/*
+._wmuyow{
+    padding: 16px 0 0 0;
+}
+*/
+/*._115qwnm {
+    /*margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;/
+
+    gap: 20px;
+    display: flex;
+    justify-content: flex-end;
+    }
+
+
+
+.panel-footer{
+    padding: 0 80px;
+}
+*/
+/*.footerhr{
+    border-top: 2px solid #eee;
+}/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**************************************HEADER**********************************/
+.banner{
+
+
+}
+
+.banner-body{
+}
+
+a {
+    color: white;
+}
+
+.banner-text>.follow{
+font-size: 32px;
+color: white;
+font-weight: 500;
+margin: 300px 64px 0 32px;
+}
+.banner-text>.lorem{
+    font-size: 16px;
+    color: white;
+    margin: 15px 64px 0 32px;
+}
+
+
+
+
+
+/*body*/
+._i6pwep{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+._1dff7f46{
+    width: 316px;
+    height: 57px;
+    padding: 15px;
+}
+._1d8i6yac {
+    padding: 14px 26px;
+    background-color: #0084894D;
+}
+._h9njgv {
+    font: 30px;
+    color: white;
+}
+
+.hr{
+    border-bottom: 1px solid rgb(235, 235, 235);
+    margin:35px 0;
+}
+
+.vertflex {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-content: center;
+}
+
+.second-heading{
+    padding: 8px;
+    text-align: center;
+}
+.b1 {
+    font-size: 24px;
+    padding: 8px;
+    font-weight: 0;
+
+}
+
+
+
+.imgbi1{
+     background: url('../images/test.jpg') no-repeat;
+}
+
+.imgbi2{
+    background: url('../images/tractor1small.jpg') no-repeat;
+}
+
+.imgbi3{
+     background: url('../images/test.jpg') no-repeat;
+}
+.imgbi{
+    width: 100%;
+    height: 380px;
+    background-position: center center;
+
+}
+
+.b1t{
+font-size: 18px;
+text-align: center;
+padding: 15px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/\
+
+
+
+
+/***********************FOOTER*********************************/
+
+
+footer{
+    background: #f7f7f7;
+}
+
+.footer-content {
+    background: #f7f7f7;
+    padding: 32px 40px; 
+}
+
+
+._1l3ys1i {
+    box-sizing: border-box;
+    margin: 0 0 24px;
+    padding:0 0 24px;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif /*font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif*/;
+    line-height: 1.43;
+    color: #484848;
+    border-bottom: 1px solid #DDDDDD;;
+}
+
+._otc65q{
+    font-size: 14px;
+    font-weight: 600;
+    color: #222222;
+
+
+}
+
+._yuolfv {
+    display: block;
+    margin: 0;
+    padding: 0;
+    color: #222222;
+    font-size: 14px;
+
+}
+._wmuyow {
+    list-style: none;
+    margin: 12px 0 0 0;
+}
+
+
+a:link{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+
+._1wsqynx{
+}
+._115qwnm{
+    display: flex;
+    justify-content: flex-end;
+
+    gap: 20px;
+} 
+
+._kdkpwk {
+    text-decoration: none;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+/**********EXTRA-SMALL*************/
+    @media (max-width: 576px){
+        .banner{
+            background: url('../images/greenhouse6xsmall.jpg') no-repeat;
+            width: 100%;
+            height: 530px;
+            background-size: cover;
+        }
+}
+/**********SMALL*************/
+@media (min-width: 576px) and (max-width: 767px){
+.banner{
+            background: url('../images/greenhouse6small.jpg') no-repeat;
+            width: 100%;
+            height: 530px;
+            background-size: cover;
+}
+}
+
+/**********MEDIUM*************/
+@media (min-width: 768px) and (max-width: 991px){ 
+
+        ._yuolfv{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        }
+        .banner{
+            background: url('../images/greenhouse6medium.jpg') no-repeat;
+            width: 100% ;
+            height: 586px;
+            background-size: 100% 100%;
+            background-size: cover;
+        }
+}
+/**********LARGE*************/
+@media (min-width: 992px) and (max-width: 1199px) {
+    .banner{
+            background: url('../images/greenhouse6large.jpg') no-repeat;
+            width: 100% ;
+            height: 730px;
+            background-size: cover;
+    }
+}
+/**********EXTRA-LARGE*************/
+@media (min-width: 1200px) and (max-width: 1399px) {
+    .banner{
+            background: url('../images/greenhouse6large.jpg') no-repeat;
+            width: 100% ;
+            height: 866px;
+            background-size: cover;
+    }
+}
+/**********EXTRA-EXTRA-LARGE*************/
+@media (min-width: 1400px) {
+    .banner{
+            background: url('../images/greenhouse6large.jpg') no-repeat;
+            width: 100%;
+            height: 950px;
+            background-size: 100% 100%;*/
+    }
+
+}
+
+
+@media (max-width: 767px) {
+    .navbar .navbar-collapse{
+    position: absolute;
+    margin: 250px 0 0 -12px;
+    width: 100%;
+    background: #222;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*@media (min-width: 744px) and (max-width: 1199px) {
+    ._yuolfv{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+    ._wmuyow {
+        width: 33.3%;
+    }
+}
+/*
